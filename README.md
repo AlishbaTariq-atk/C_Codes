@@ -141,7 +141,7 @@
     *Description:* This concise C program utilizes file handling to create and write student information into a file named "program.txt". It showcases a simple 
     and effective tool for file writing and data storage. 📝📂💻
 
-32. ** Std_Subject_File**<br>
+32. **Std_Subject_File**<br>
    *Description:* This C program reads names from a file named "names.txt" and generates a new file "name_subj.txt" associating each name with subjects 
    (Programming Fundamentals, Calculus, English Composition). A practical and efficient tool for file processing and content creation. 📂📄💻
 
