@@ -32,7 +32,7 @@
       *Description:* This C program generates the multiplication table for a given number. It prompts the user to enter a number, and then it uses a `for` loop to        calculate and print the multiplication table from 1 to 10 for the entered number. This tool is helpful for learning and practicing multiplication tables! 
        🧮✨
        
-##5. **Array_Stats_Toolkit.c**<br>
+## 5. **Array_Stats_Toolkit.c**<br>
   *Description:* This C program efficiently processes and displays various statistics of a given array, including minimum and maximum values, average, last 
    element, and values at specific indices. Additionally, it counts and displays the occurrences of even and odd numbers. 📊🔢
 
